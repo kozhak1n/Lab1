@@ -1,0 +1,37 @@
+html {
+  background-color: #141610;
+}
+
+body {
+  width: 1000px;
+  height: 150px;
+  margin: auto;
+  background-color: #ffefa2;
+  padding: 25px;
+  border: 2px solid #9a9d2d;
+}
+
+center {
+	font-family:sans-serif;
+	font-size: 24px;
+}
+
+img {
+	border: 2px solid #9a9d2d;
+	margin: auto;
+}
+
+.rightpic {
+	float:right;
+}
+
+.leftpic {
+	float:left;
+}
+
+.buttonValue {
+	text-align: center;
+	border: 2px solid #9a9d2d;
+	color: #000000;
+	width: 350px;
+}
